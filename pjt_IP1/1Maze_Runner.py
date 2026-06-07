@@ -218,7 +218,7 @@ def efeito_casa(jogador):
         pygame.mixer.Sound("som_azul.wav").play()
 
     elif cor_casa == cores["preto"]:
-        pos_jgr[jogador] = 1  # volta para a casa logo após o início
+        pos_jgr[jogador] = 0  # volta para o inicio
         mensagens_de_log.append(f"{jogador} voltou ao início!")
         pygame.mixer.Sound("som_preto.wav").play() # som do FAHH
 
