@@ -74,7 +74,7 @@ y_quadrado = 50
 fonte = pygame.font.SysFont("arial", 12, True, False)
 
 # fontes titulo
-fonte_titulo = pygame.font.Font(r"C:\Users\wende\OneDrive\Área de Trabalho\pjt_IP1\SketchRockwell-Bold.ttf", 25) #// trocar diretorio quando este arquivo estiver em outro computador
+fonte_titulo = pygame.font.Font(r"SketchRockwell-Bold.ttf", 25) # é preciso instalar a fonte manualmente no dispositivo, senão, precisará colocar todo o diretório do arquivo
 
 # posição onde será desenhado o texto "Início"
 pos_inicio = (x_quadrado + 2, y_quadrado + 2)
