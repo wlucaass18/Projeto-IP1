@@ -325,7 +325,6 @@ while True:
             else:
                 numeracao = fonte.render(numero, True, cores["branco"])
                 tela.blit(numeracao, (posicoes_numero_quadrado[i][0], posicoes_numero_quadrado[i][1]))
-                numeracao = fonte.render(numero, True, cores["preto"])
     
     # desenha os textos "Início" e "Fim" no primeiro e último quadrado
     tela.blit(inicio, (pos_inicio[0], pos_inicio[1]))
