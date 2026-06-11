@@ -363,7 +363,6 @@ while True:
                     exit()
                 if ev.type == MOUSEBUTTONDOWN:
                     x, y = pygame.mouse.get_pos()
-                    #verifica se clicou dentro do botão (retângulo 300x50 centralizado)
                     if 712 <= x <= 948 and 455 <= y <= 505: #intervalo onde pode ser clicado
                         reiniciar_jogo()
                         esperando = False
