@@ -12,7 +12,7 @@ O projeto simula um labirinto dinâmico e estratégico utilizando a biblioteca *
 ---
 
 ## 👥 Equipe (Lazarus)
-* **Wendel Lucas**
+* [Wendel Lucas](www.linkedin.com/in/wendel-freitas-760178388)
 * **Vitor Miguel**
 * [Miguel Maelbe](https://www.linkedin.com/in/miguel-maelbe/)
 
