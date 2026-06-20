@@ -3,6 +3,8 @@
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 [![Library](https://img.shields.io/badge/library-pygame-green.svg)](https://www.pygame.org/)
 
+![Screenshot do Jogo](screenshot.png)
+
 Um jogo de tabuleiro eletrônico competitivo para dois jogadores, desenvolvido como projeto final para a disciplina de **Introdução à Programação (IP)**, alcançando a **nota máxima (10/10)**. 
 
 O projeto simula um labirinto dinâmico e estratégico utilizando a biblioteca **Pygame**, contando com uma interface gráfica customizada, efeitos sonoros imersivos e lógica de turnos automatizada.
